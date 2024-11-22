@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://dl.espressif.com/dl/schemas/esp_idf",
+  "_comment": "Configuration file for ESP-IDF IDEs.",
+  "_warning": "Use / or \\ when specifying path. Single backslash is not allowed by JSON format.",
+  "gitPath": "/usr/bin/git",
+  "idfToolsPath": "/workspaces/dockertest/.espressif",
+  "idfSelectedId": "esp-idf-31ec0fbb01873d694ac64ff891ac3dfd",
+  "idfInstalled": {
+    "esp-idf-31ec0fbb01873d694ac64ff891ac3dfd": {
+      "version": "5.3.1",
+      "python": "/workspaces/dockertest/.espressif/python_env/idf5.3_py3.10_env/bin/python",
+      "path": "/workspaces/dockertest/esp/v5.3.1/esp-idf"
+    }
+  }
+}
